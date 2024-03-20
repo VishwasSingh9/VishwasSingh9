@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="codingimg" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwassingh9&label=Profile%20views&color=0e75b6&style=flat" alt="vishwassingh9" /> </p>
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vishwas9955/about](https://medium.com/@vishwas9955/about)
 
-- 💬 Ask me about **JS**
+- 💬 Ask me about **JS/SpringBoot**
 
 - 📫 How to reach me **vishwas11052001@gmail.com**
 
